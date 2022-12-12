@@ -36,4 +36,10 @@ Note there are existing implementations and you may use them as an inspiration, 
 5. Which benefints and which probable downsides may your solution experience? 
 
 ## Task 2. Hit the GLUE!
-This task is about finetuning your efficient Transformer on the GLUE tasks. Find two-three tasks among others, which you consider the most demonstrative, and list corresponding performances. You can run your experiments in notebooks. 
+This task is about finetuning your efficient Transformer on the GLUE tasks. Find two-three tasks among others, which you consider the most demonstrative, and list corresponding performance of your models. You can run your experiments in notebooks. Try to reach as best performance as you can on each of your task, but we do not ask you to do SOTA. Here is the things your report of stage two must include:
+1. Description of the chosen tasks: brief overview, metrics and SOTA;
+2. Task metrics (efficient Transformer);
+3. Reference task metrics (vanilla Transformer);
+4. Latency benchmarks;
+
+NOTE: you can choose any architecture of the Transformers family and modify it so it is efficient. Next you measure performance (metrics and latency) of the source version and your optimized version. Your particular task here is to find the way you will be presenting the results so that we can understand performance gains and that is was obtained on the regular basis and not by accident (this refers both to metrics and latency). 
