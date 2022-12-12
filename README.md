@@ -26,7 +26,7 @@ The overall requirement is to write clean and readable Python code, which refers
 ## Task 1. Implement your own efficient Transformer.
 Transformer architecture is known for its superior performance in various NLP domains alongside with quadratic time and memory complexity. In this task you are suggested to write efficient Transformer in terms of time and memory requirements. 
 
-For quick start you can refer to [this](https://arxiv.org/abs/2103.13076), [this](https://arxiv.org/abs/2006.16236) and [this](https://arxiv.org/abs/2009.14794). You are not limited to the ideas listed in these papers, your goal is to write faster varion of Transformer no matter which approach you are using. 
+For quick start you can refer to [this](https://arxiv.org/abs/2103.13076), [this](https://arxiv.org/abs/2006.16236) and [this](https://arxiv.org/abs/2009.14794). You are not limited to the ideas listed in these papers, your goal is to write faster version of Transformer no matter which approach you are using. 
 
 Note there are existing implementations and you may use them as an inspiration, but you are not allowed to just copy-past somebody's code. In the README.md file while describing your solution you must write down following passages:
 1. The overall idea and where did it come from? 
